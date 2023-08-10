@@ -11,7 +11,8 @@ In my free time I like to bake, cook, play chess (while I'm not the greatest at 
 
 ## Future Projects
 I'm very ambitious and want to create several projects, some of the following are my top priorities:  
-- [ ] HoloHelper
+- [x] HoloHelper
+- [ ] Todo-A-List
 - [ ] WII-Tanks (my own recreation)
 - [ ] Kaleidoscope
 
