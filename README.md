@@ -20,5 +20,5 @@ I'm very ambitious and want to create several projects, some of the following ar
 ![](https://badgen.net/badge/Java/Experienced/green?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)  
 ![](https://badgen.net/badge/Python/Intermediate/cyan?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 ![](https://badgen.net/badge/Google%20Docs/Intermediate/cyan?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg)  
-![](https://badgen.net/badge/Github/Beginner/yellow?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![](https://badgen.net/badge/Github/Beginner/yellow?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)  
 ![](https://badgen.net/badge/C/Beginner/yellow?scale=1.2&icon=https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)
