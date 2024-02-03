@@ -2,7 +2,7 @@
 
 ## About me
 I'm a student from germany with a fascination for anything IT related.  
-For the past 3 years I've been teaching myself the ropes, mainly in the field of application development in Java. Using tools and APIs like [Spigot](https://www.spigotmc.org/) to build and develop plugins.  
+For the past 5 years I've been teaching myself the ropes, mainly in the field of application development in Java. Using tools and APIs like [Spigot](https://www.spigotmc.org/) to build and develop plugins.  
 But also daveling in other areas, like hardware related projects using [KiCad](https://www.kicad.org/) or [Hades](https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/download.html) to create my own ALU.  
 
 ## Interests
@@ -21,3 +21,4 @@ I'm very ambitious and want to create several projects, some of the following ar
 ![](https://badgen.net/badge/Python/Intermediate/cyan?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 ![](https://badgen.net/badge/Google%20Docs/Intermediate/cyan?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg)  
 ![](https://badgen.net/badge/Github/Beginner/yellow?scale=1.2&icon=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![](https://badgen.net/badge/C/Beginner/yellow?scale=1.2&icon=https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)
